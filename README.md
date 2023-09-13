@@ -33,9 +33,12 @@ Finally, we have a map showing the proportional size and location of each of the
 
 ## Media Highlights 
 
+ATtached are videos showing the functionality and layout of the dashboard. 
+
 [3Highlightwebm.webm](https://github.com/adrue94/project-3-appTest/assets/126558641/f3704f56-63c2-4a69-acba-65221c0ea115)
 
-[3LeaflyMapwebm.webm](https://github.com/adrue94/project-3-appTest/assets/126558641/f12fdc47-7b79-4142-bcad-7fd60ec38b37)
+[3Tablewebm.webm](https://github.com/adrue94/project-3-appTest/assets/126558641/09ad6fd8-513d-4d82-815e-cb7f37fb66bb)
 
 [3Piewebm.webm](https://github.com/adrue94/project-3-appTest/assets/126558641/cd4fbe12-9739-454a-91ca-14d6b89fcc1f)
 
+[3LeaflyMapwebm.webm](https://github.com/adrue94/project-3-appTest/assets/126558641/f12fdc47-7b79-4142-bcad-7fd60ec38b37)
