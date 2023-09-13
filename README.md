@@ -29,6 +29,9 @@ Below the Gender Data, we have Weight Data in the form of a pie chart and associ
 Finally, we have a map showing the proportional size and location of each of the 8 selected states where you can select any number of the different education levels to display the number of births expressed in saturation of the color red. The darker shades of red represent lower numbers of births, while the lighter shades represent higher numbers of birth. Hovering over any of the selected states, displays the total number of births for the education level(s) chosen. Upon observation, we can see that California has the highest number of births, while Alaska and Hawaii are among the lowest.
 
 ## Media Highlights 
+
+[3Highlightwebm.webm](https://github.com/adrue94/project-3-appTest/assets/126558641/f3704f56-63c2-4a69-acba-65221c0ea115)
+
 [3Highlightwebm.webm](https://github.com/adrue94/project-3-appTest/assets/126558641/1268ff3d-b0c6-45cc-ac89-72ea5b84c9fb)
 
 
