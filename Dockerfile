@@ -3,7 +3,7 @@
 FROM python:3.8
 
 # Add the files to the container
-ADD template/index.html /template/index.html
+ADD /template/index.html /template/index.html
 ADD app.py app.py
 
 # Expose the port
