@@ -10,17 +10,19 @@ ADD app.py app.py
 # EXPOSE 8000/
 
 # Set the working directory
-WORKDIR /
+# WORKDIR /
 
 # Install the application dependencies
-# COPY requirements.txt .
+COPY requirements.txt .
 
 # Install the application dependencies
-RUN pip install flask
+# RUN pip install flask
 
-RUN pip install sqlalchemy
+# RUN pip install sqlalchemy
+RUN pip install flask sqlalchemy
 
-from json import dump
+# Import the json module and rename its dump method to json_dump
+from json import dump as json_dump
 
 # Define the entry point for the container
 CMD ["flask", "run", "--host=0.0.0.0"]
