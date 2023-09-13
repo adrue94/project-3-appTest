@@ -33,7 +33,7 @@ Finally, we have a map showing the proportional size and location of each of the
 
 ## Media Highlights 
 
-ATtached are videos showing the functionality and layout of the dashboard. 
+Media showing the layout of our web dashboard.
 
 [3Highlightwebm.webm](https://github.com/adrue94/project-3-appTest/assets/126558641/f3704f56-63c2-4a69-acba-65221c0ea115)
 
