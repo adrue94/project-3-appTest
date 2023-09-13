@@ -18,19 +18,9 @@ WORKDIR /
 # Install the application dependencies
 RUN pip install flask
 
-from flask import Flask, jsonify, render_template, request
-import requests
-import datetime as dt
-import pandas as pd
-
-
 RUN pip install sqlalchemy
-from sqlalchemy.ext.automap import automap_base
-from sqlalchemy.orm import Session
-from sqlalchemy import create_engine, func
 
 from json import dump
-import json
 
 # Define the entry point for the container
 CMD ["flask", "run", "--host=0.0.0.0"]
