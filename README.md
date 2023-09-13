@@ -1,5 +1,7 @@
 #   Project 3 - US Birth Data by State & Education Analysis
 
+![header](https://github.com/adrue94/project-3-appTest/assets/126558641/f8b21584-5db2-4350-831b-9dd20f0cde3a)
+
 For the third porject our team wanted to focus on generating a dashboard that was intuitive in function and presentation, as such we have selected an accessible dataset that has U.S. births by geography, gender and educational level over a 5 year period. The base CSV file has over 5000 entries, which may be trimmed to highlight differences between different subjects / states. The database span a period before and after CoVID which can reveal its impact on population births across the United States. 
 
 # Study Objective: 
