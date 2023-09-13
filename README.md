@@ -10,7 +10,7 @@ For the third porject our team wanted to focus on generating a dashboard that wa
 2. Construct an engaging webpage with to facilitate interpretation and usability for users of all-levels.
     - The webpage was built with of HTML and CSS. It uses Bootstrap for general layout, Granim for the animated background gradient and an smooth scrolling library to enable navbar scrolling. 
 3. Deploy webpage to showcase user-driven interactive data visualizations and tables.
-    - The team used D3.js to read the JSON file and generated maps using Leaflet and Plotly, we then 
+    - The team used D3.js to read the JSON files and generated maps and visualizations through a combination of Leaflet and Plotly before integrating them in index.html.
 
 # Data Source:
 Origin: [Census.gov](https://data.census.gov/table?q=S1501&g=0100000US$0400000)
